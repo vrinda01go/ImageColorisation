@@ -1,9 +1,8 @@
 # ImageColorisation
 
 ## Weekly Progress
- WEEK 1: Learned python and did some practise of same on hackkerank.
- 
-         Resources used : [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/)
+ ### WEEK 1: Learned python and did some practise of same on hackkerank.
+ Resources used : [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/)
  
  WEEK 2: Started doing a course on MACHINE LEARNING on coursera and covered upto Week 3 .
  
