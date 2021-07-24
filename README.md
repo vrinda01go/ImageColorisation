@@ -34,7 +34,7 @@ Resources used:
    Paper Link:[DCGAN](https://arxiv.org/abs/1511.06434)
    Other Resources used:
    * [GANs From Scratch Blog](https://medium.com/ai-society/gans-from-scratch-1-a-deep-introduction-with-code-in-pytorch-and-tensorflow-cb03cdcdba0f)
-   * [NPTEL videos onn GAN](https://www.youtube.com/watch?v=MKedB9qOHi4)
+   * [NPTEL videos on GAN](https://www.youtube.com/watch?v=MKedB9qOHi4)
    * [DCGAN Pytorch Tutorial](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
                          
  ##### WEEK-9: Read and Implemented **pix2pix** paper for Image-to-Image Translation with Conditional Adversarial Networks.
