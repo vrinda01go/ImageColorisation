@@ -12,7 +12,7 @@
  ##### WEEK 4: 1) Learned about numpy and matplotlib.
  Resources Used: [Numpy and Matplotlib tutorials](https://cs231n.github.io/python-numpy-tutorial/).
  ##### 2) Implemented simple linear regression , multiple linear regression, logistic regression.
-            [Linear Regression](https://github.com/vrinda01go/ImageColorisation/blob/main/LINEAR_REGRESSION.ipynb)
+  [Linear Regression](https://github.com/vrinda01go/ImageColorisation/blob/main/LINEAR_REGRESSION.ipynb)
             [Logistic Regression](https://github.com/vrinda01go/ImageColorisation/blob/main/LOGISTIC_REGRESSION.ipynb)
             [Multivariable Regression](https://github.com/vrinda01go/ImageColorisation/blob/main/MULTIVARIABLE_REGRESSION.ipynb)
          
@@ -24,12 +24,12 @@
   Resource used: [PYTORCH](https://pytorch.org/tutorials/beginner/basics/intro.html)
   
 ##### WEEK-7: Read about CNNs and Implemented VGG-16 architecture.
-  Resources used:* [NPTEL Videos](https://www.youtube.com/playlist?list=PLyqSpQzTE6M-SISTunGRBRiZk7opYBf_K)
-                 * [Other links](https://datascience.stackexchange.com/questions/9175/how-do-subsequent-convolution-layers-work)
+  Resources used: *[NPTEL Videos](https://www.youtube.com/playlist?list=PLyqSpQzTE6M-SISTunGRBRiZk7opYBf_K)
+                 *[Other links](https://datascience.stackexchange.com/questions/9175/how-do-subsequent-convolution-layers-work)
              
 ##### WEEK-8: 1)Read and Implemeted **GAN** paper.
    Paper Link: [GAN](https://arxiv.org/abs/1406.2661)
-        2)Read and Implemented **DCGAN** paper.
+##### 2)Read and Implemented **DCGAN** paper.
    Paper Link:[DCGAN](https://arxiv.org/abs/1511.06434)
    Other Resources used: * [GANs From Scratch Blog](https://medium.com/ai-society/gans-from-scratch-1-a-deep-introduction-with-code-in-pytorch-and-tensorflow-cb03cdcdba0f)
                          * [NPTEL videos onn GAN](https://www.youtube.com/watch?v=MKedB9qOHi4)
