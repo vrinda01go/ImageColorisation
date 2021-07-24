@@ -1,13 +1,15 @@
 # ImageColorisation
 
 ## Weekly Progress
- WEEK 1: I learned python and did some practise of same on hackkerank
+ WEEK 1: Learned python and did some practise of same on hackkerank
+ Resources used : [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/)
  
- WEEK 2: I did course on MACHINE LEARNING on coursera and covered upto Week 3 
+ WEEK 2: Started doing a course on MACHINE LEARNING on coursera and covered upto Week 3 . [Course Link](https://www.coursera.org/learn/machine-learning?action=enroll&authMode=signup)
+
+ WEEk 3: Completed Week 4 and Week 5 of course on ML on coursera
  
- WEEk 3: I have started with Week-4 and will complete till Week -5 by this week  
- 
- WEEK 4: 1) Learned about numpy and matplotlib
+ WEEK 4: 1) Learned about numpy and matplotlib.
+ Resources Used: [Numpy and Matplotlib tutorials](https://cs231n.github.io/python-numpy-tutorial/)
          2) Implemented simple linear regression , multiple linear regression, logistic regression
          
  WEEK 5: Started with Deep Learning from Neural Networks and Deep Learning book 
